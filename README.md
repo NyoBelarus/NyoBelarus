@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0b080a&height=120&section=header&text=&fontSize=0">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=fffffA&height=120&section=header&text=&fontSize=0">
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=3500&pause=1000&color=873C46&center=true&vCenter=true&width=500&lines=welcome+to+my+little+corner+of+the+internet;please+look+around;last+updated...+11.17.2026" %3A+%5Bdate%5D" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=3500&pause=1000&color=8893BA&center=true&vCenter=true&width=500&lines=welcome+to+my+little+corner+of+the+internet;please+look+around;last+updated...+11.17.2026" %3A+%5Bdate%5D" />
 </p>
 
 𓆩 [ Ｍｉｓｈａ] 𓆪
@@ -17,7 +17,7 @@ about 　⛧　 interests  　⛧　 links
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=4000&pause=1000&color=713B43&center=true&vCenter=true&width=500&lines=01.+%2F%2F+ABOUT+ME" width="80%" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=4000&pause=1000&color=8893BA&center=true&vCenter=true&width=500&lines=01.+%2F%2F+ABOUT+ME" width="80%" />
 
 </div>
 
@@ -41,7 +41,7 @@ I'm Ethan, but you can call me Misha. I'm generally Nice person and talktive, al
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=4000&pause=1000&color=713B43&center=true&vCenter=true&width=400&lines=02.+%2F%2F+INTERESTS" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=4000&pause=1000&color=8893BA&center=true&vCenter=true&width=400&lines=02.+%2F%2F+INTERESTS" />
 
  ｔｈｉｎｇｓ ｉ ｅｎｊｏｙ ／ ｔｈｉｎｇｓ ｉ ｓｐｅｎｄ ｔｉｍｅ ｏｎ
 
@@ -112,7 +112,7 @@ weirdcore · dreamcore · old web · digital horror · gothic · liminal spaces
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=4000&pause=1000&color=713B43&center=true&vCenter=true&width=400&lines=06.+%2F%2F+LINKS" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=4000&pause=1000&color=8893BA&center=true&vCenter=true&width=400&lines=06.+%2F%2F+LINKS" />
 
 strawpage[Soon] ⛧ [Pronouns Page](https://pronouns.cc/@Mish4)
 
@@ -120,6 +120,6 @@ strawpage[Soon] ⛧ [Pronouns Page](https://pronouns.cc/@Mish4)
 
 © [ Misha ] · [ 2026 ]
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0b080a&height=100&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=fffffA&height=100&section=footer">
 
 </div>
