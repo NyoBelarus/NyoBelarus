@@ -56,7 +56,9 @@ I'm Ethan, but you can call me Misha. I'm generally Nice person and talktive, al
 Ｍｕｓｉｃ
 
 And one
+
 Ashbury Heights
+
 And even more
 
 Ｇａｍｅｓ
