@@ -114,7 +114,7 @@ weirdcore · dreamcore · old web · digital horror · gothic · liminal spaces
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=4000&pause=1000&color=8893BA&center=true&vCenter=true&width=400&lines=06.+%2F%2F+LINKS" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=4000&pause=1000&color=8893BA&center=true&vCenter=true&width=400&lines=0.+%2F%2F+LINKS" />
 
 strawpage[Soon] ⛧ [Pronouns Page](https://pronouns.cc/@Mish4)
 
